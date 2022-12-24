@@ -1,0 +1,557 @@
+APIs:
+- /2022/2022-03-09-rest-api-deprecation.html
+Age Discrimination:
+- /2021/2021-10-03-is-40-the-new-60.html
+Agile Development:
+- /2011/2011-08-02-a-teamwork-model-for-understanding-an-agile-team.html
+- /2011/2011-10-11-experiences-of-using-pair-programming-in-an-agile-project.html
+- /2021/2021-08-09-impact-of-rapid-release-cycles-on-integration-delay-of-fixed-issues.html
+- /2021/2021-08-18-how-agile-teams-make-self-assignment-work.html
+- /2022/2022-04-24-role-clarity-deficiencies-can-wreck-agile-teams.html
+Anti-patterns:
+- /2022/2022-03-14-architecture-anti-patterns.html
+App Store:
+- /2021/2021-10-30-app-store-effects-on-software-engineering-practices.html
+Architecture:
+- /2016/2016-10-02-grid-revisited.html
+Authorship:
+- /2021/2021-10-15-authorship-attribution-of-source-code.html
+Automation:
+- /2021/2021-09-30-effects-of-adopting-code-review-bots.html
+- /2021/2021-10-07-how-do-software-developers-use-github-actions.html
+- /2021/2021-11-18-synthesis-approach-for-data-science-api-refactoring.html
+Benchmarking:
+- /2021/2021-10-19-whats-wrong-with-my-benchmark-results.html
+- /2021/2021-11-08-my-kingdom-for-a-dataset.html
+- /2021/2021-12-13-refactorings-in-merge-conflicts.html
+Bias:
+- /2021/2021-08-29-beyond-the-code-itself.html
+Book Review:
+- /2012/2012-05-03-a-review-of-code-simplicity.html
+- /2013/2013-06-13-the-msr-cookbook-mining-a-decade-of-research.html
+- /2013/2013-08-12-review-essence-of-software-engineering.html
+- /2021/2021-10-02-programmers-brain.html
+- /2022/2022-05-06-not-quite-modern.html
+Bug Reports:
+- /2011/2011-08-30-what-makes-a-good-bug-report.html
+- /2012/2012-07-18-clustering-duplicate-crash-reports.html
+- /2021/2021-11-08-my-kingdom-for-a-dataset.html
+Bugs:
+- /2022/2022-03-11-single-statement-bugs-in-python-projects.html
+Build Systems:
+- /2021/2021-09-21-build-systems-a-la-carte.html
+Circadian Rhythms:
+- /2021/2021-09-26-two-papers-on-time.html
+Code Clones:
+- /2011/2011-08-16-cloning-considered-harmful-considered-harmful.html
+Code Generation:
+- /2013/2013-06-06-automatic-patch-generation-learned-from-human-written-patches.html
+Code Ownership:
+- /2011/2011-06-27-ownership-experience-and-defects.html
+- /2011/2011-09-05-dont-touch-my-code.html
+- /2011/2011-10-22-three-results-many-definitions.html
+- /2016/2016-06-07-code-ownership-revisited.html
+- /2021/2021-09-10-why-software-projects-need-heroes.html
+Code Review:
+- /2011/2011-07-18-understanding-broadcast-based-peer-review-on-open-source-projects.html
+- /2011/2011-08-31-comparing-the-defect-reduction-benefits-of-code-inspection-and-test-driven-development.html
+- /2011/2011-12-04-online-vs-face-to-face-pedagogical-code-reviews-an-empirical-comparison.html
+- /2013/2013-06-19-reducing-human-effort-and-improving-quality-in-peer-code-reviews-using-automatic-static-analysis-and-reviewer-recommendation.html
+- /2021/2021-08-16-modern-code-review.html
+- /2021/2021-09-30-effects-of-adopting-code-review-bots.html
+Code Search:
+- /2021/2021-12-02-deep-code-search.html
+Code Smells:
+- /2011/2011-06-27-refactoring-pipe-like-mashups-for-end-user-programmers.html
+- /2011/2011-08-16-cloning-considered-harmful-considered-harmful.html
+- /2013/2013-07-07-how-and-why-process-metrics-are-better.html
+- /2013/2013-07-24-semantic-smells-and-errors-in-access-control-models-a-case-study-in-php.html
+- /2016/2016-08-14-novice-smells.html
+- /2021/2021-11-29-next-steps-in-static-api-misuse-detection.html
+- /2021/2021-12-13-refactorings-in-merge-conflicts.html
+Cognition:
+- /2021/2021-10-14-api-learning-processes.html
+Collaborative Development:
+- /2011/2011-07-18-understanding-broadcast-based-peer-review-on-open-source-projects.html
+- /2011/2011-09-13-proactive-detection-of-collaboration-conflicts.html
+- /2012/2012-03-01-social-coding-in-github.html
+- /2012/2012-05-24-supporting-professional-spreadsheet-users-by-generating-leveled-dataflow-diagrams.html
+- /2014/2014-04-25-cassandra-proactive-conflict-minimization-through-optimized-task-scheduling.html
+- /2016/2016-06-07-pull-based-development.html
+- /2021/2021-08-18-how-agile-teams-make-self-assignment-work.html
+- /2021/2021-08-19-toxic-code-snippets-on-stack-overflow.html
+- /2021/2021-08-29-beyond-the-code-itself.html
+Commenting:
+- /2021/2021-09-06-commenting-source-code.html
+Communication:
+- /2022/2022-03-31-textual-vs-graphic-design-descriptions-and-communication.html
+Computer Security:
+- /2021/2021-09-27-technology-facilitated-intimate-partner-abuse.html
+Computers and Society:
+- /2021/2021-10-11-a-critical-history-of-logo-and-constructionist-learning.html
+Computing Education:
+- /2011/2011-12-02-the-fcs1-a-language-independent-assessment-of-cs1-knowledge.html
+- /2011/2011-12-04-online-vs-face-to-face-pedagogical-code-reviews-an-empirical-comparison.html
+- /2021/2021-09-02-compiler-error-messages-considered-unhelpful.html
+- /2021/2021-09-03-two-papers-about-the-blackbox-project.html
+- /2021/2021-10-10-mongodb-homework.html
+- /2021/2021-10-11-a-critical-history-of-logo-and-constructionist-learning.html
+Conference:
+- /2022/2022-04-18-zeller-summary-icse-2022.html
+Conferences:
+- /2013/2013-06-04-first-impressions-of-msr.html
+Configuration:
+- /2016/2016-06-09-too-many-knobs.html
+Continuous Integration:
+- /2021/2021-10-18-bad-practices-in-continuous-integration.html
+- /2021/2021-10-19-restarted-and-flaky-builds-on-travis-ci.html
+- /2022/2022-03-21-strategies-to-improve-continuous-integration.html
+- /2022/2022-04-08-continuous-integration-single-statement-bugs.html
+Crowdsourcing:
+- /2021/2021-09-19-reading-answers-on-stack-overflow-not-enough.html
+- /2021/2021-10-26-enriching-api-documentation-with-code-samples-and-usage-scenarios.html
+Data Science:
+- /2021/2021-10-17-demystifying-error-messages-in-data-science-libraries.html
+- /2021/2021-11-18-googling-for-software-development.html
+- /2021/2021-11-18-synthesis-approach-for-data-science-api-refactoring.html
+Databases:
+- /2021/2021-10-07-finding-bugs-in-database-systems-via-query-partitioning.html
+- /2021/2021-10-10-mongodb-homework.html
+- /2021/2021-10-26-error-messages-in-relational-database-systems.html
+- /2022/2022-04-11-database-performance-antipatterns.html
+Daylight Savings Time:
+- /2021/2021-09-26-two-papers-on-time.html
+Debugging:
+- /2016/2016-06-05-bigdebug.html
+- /2021/2021-09-02-compiler-error-messages-considered-unhelpful.html
+- /2021/2021-10-07-finding-bugs-in-database-systems-via-query-partitioning.html
+- /2021/2021-10-31-locating-faults-with-program-slicing.html
+Deep Learning:
+- /2021/2021-12-02-deep-code-search.html
+Design:
+- /2011/2011-06-30-lets-go-to-the-whiteboard.html
+- /2016/2016-09-30-rethinking-git.html
+- /2021/2021-09-24-how-software-designers-interact-with-sketches-at-the-whiteboard.html
+- /2022/2022-03-31-textual-vs-graphic-design-descriptions-and-communication.html
+Design Patterns:
+- /2016/2016-09-09-replicating-design-patterns-experiment.html
+- /2021/2021-08-26-defect-taxonomy-for-infrastructure-as-code.html
+DevOps:
+- /2012/2012-05-17-do-faster-releases-improve-software-quality.html
+- /2021/2021-08-09-impact-of-rapid-release-cycles-on-integration-delay-of-fixed-issues.html
+- /2021/2021-08-26-defect-taxonomy-for-infrastructure-as-code.html
+- /2021/2021-11-08-my-kingdom-for-a-dataset.html
+- /2021/2021-11-23-security-smells-in-infrastructure-as-code-scripts.html
+Development Practices:
+- /2021/2021-10-30-app-store-effects-on-software-engineering-practices.html
+- /2021/2021-11-18-googling-for-software-development.html
+- /2021/2021-11-26-metric-based-comparisons-of-software-libraries.html
+Development Process:
+- /2021/2021-09-26-are-delayed-issues-harder-to-resolve.html
+- /2022/2022-02-28-software-error-cause-effect.html
+Diversity:
+- /2016/2016-09-21-paradise-unplugged.html
+- /2021/2021-10-16-open-source-projects-in-baidu-alibaba-and-tencent.html
+Documentation:
+- /2011/2011-08-23-creating-and-evolving-developer-documentation.html
+- /2011/2011-11-08-a-field-study-of-api-learning-obstacles.html
+- /2021/2021-08-23-links-in-source-code-comments.html
+- /2021/2021-09-15-categorizing-the-content-of-github-readme-files.html
+- /2021/2021-10-06-software-documentation-issues-unveiled.html
+- /2021/2021-10-26-enriching-api-documentation-with-code-samples-and-usage-scenarios.html
+- /2022/2022-04-14-generating-unit-tests-for-documentation.html
+Domain-Specific Languages:
+- /2021/2021-09-20-program-comprehension-of-domain-specific-and-general-purpose-languages.html
+Editorial:
+- /2011/2011-06-27-theory-and-practice.html
+- /2011/2011-07-11-webinars-on-the-architecture-of-open-source-applications-july-13-and-20.html
+- /2011/2011-10-11-the-irop-paper.html
+- /2011/2011-10-19-announcement-empirical-software-engineering-at-american-scientist.html
+- /2012/2012-02-16-teachers-matter-do-programmers.html
+- /2012/2012-05-29-open-access-research-at-nwit-and-everywhere.html
+- /2012/2012-12-06-two-solitudes-illustrated.html
+- /2013/2013-11-16-a-modest-proposal.html
+- /2015/2015-07-24-hostage-situation.html
+- /2016/2016-04-26-extremely-angry.html
+- /2016/2016-06-09-software-engineering-homunculus.html
+- /2016/2016-09-09-acm-open-access-policy.html
+- /2016/2016-09-09-you-keep-using-that-word.html
+- /2016/2016-12-01-hiatus.html
+- /2021/2021-08-08-were-back.html
+- /2021/2021-08-10-please-help-these-researchers.html
+- /2021/2021-10-20-tech-worker-handbook.html
+- /2021/2021-10-24-whats-missing-from-the-missing-readme.html
+- /2022/2022-03-08-consider-the-thermometer.html
+- /2022/2022-05-20-a-note-on-communication.html
+- /2022/2022-05-14-may-2022-to-do.html
+Education:
+- /2011/2011-12-10-a-decade-of-research-and-development-on-program-animation-the-jeliot-experience.html
+- /2012/2012-09-01-shaping-the-next-generation-or-the-exam-defines-the-course.html
+- /2013/2013-03-08-halving-fail-rates-using-peer-instruction.html
+- /2016/2016-09-16-five-from-icer-2016.html
+- /2016/2016-10-01-apex.html
+Error Handling:
+- /2021/2021-09-05-two-papers-on-errors.html
+Error Messages:
+- /2021/2021-09-20-do-developers-read-compiler-error-messages.html
+- /2021/2021-10-17-demystifying-error-messages-in-data-science-libraries.html
+- /2021/2021-10-26-error-messages-in-relational-database-systems.html
+Estimation:
+- /2011/2011-10-18-the-impact-of-irrelevant-and-misleading-information.html
+- /2012/2012-04-17-ensemble-effort-estimation.html
+- /2012/2012-06-12-software-development-estimation-biases-the-role-of-interdependence.html
+- /2013/2013-06-13-formal-specifications-better-than-function-points-for-code-sizing.html
+Experience Reports:
+- /2011/2011-06-30-specification-and-verification-the-spec-experience.html
+- /2011/2011-07-18-debugging-in-the-very-large.html
+- /2011/2011-08-09-an-empirical-study-of-build-maintenance-effort.html
+Faults:
+- /2013/2013-04-16-a-characteristic-study-on-failures-of-production-distributed-data-parallel-programs.html
+- /2014/2014-10-09-simple-testing-can-prevent-most-critical-failures.html
+- /2021/2021-08-10-developers-fix-their-own-simple-bugs-differently-from-other-developers.html
+- /2021/2021-09-11-common-bug-fix-patterns.html
+- /2021/2021-09-16-exception-handling-practices-and-post-release-defects.html
+- /2021/2021-09-23-the-secret-life-of-bugs.html
+- /2021/2021-09-26-are-delayed-issues-harder-to-resolve.html
+Formal Methods:
+- /2011/2011-06-30-specification-and-verification-the-spec-experience.html
+Fuzz Testing:
+- /2021/2021-10-01-the-relevance-of-classic-fuzz-testing.html
+- /2022/2022-02-21-antifuzz.html
+Gamification:
+- /2021/2021-10-03-how-gamification-affects-software-developers.html
+Governance:
+- /2021/2021-09-09-organizing-for-openness.html
+Grid Computing:
+- /2016/2016-10-02-grid-revisited.html
+Hackathons:
+- /2021/2021-10-08-do-hackathon-projects-change-the-world.html
+Hiring:
+- /2021/2021-09-13-whats-wrong-with-tech-hiring.html
+Infrastucture as code:
+- /2021/2021-11-23-security-smells-in-infrastructure-as-code-scripts.html
+Interviewing:
+- /2022/2022-04-13-do-you-really-code.html
+Job Satisfaction:
+- /2021/2021-10-04-the-daily-life-of-software-developers.html
+Licensing:
+- /2021/2021-08-19-toxic-code-snippets-on-stack-overflow.html
+- /2021/2021-09-04-do-software-developers-understand-open-source-licenses.html
+Lightning Talks:
+- /2022/2022-05-18-bacchelli-code-review.html
+- /2022/2022-05-19-hermans-naming.html
+- /2022/2022-05-20-baltes-new-guinea.html
+- /2022/2022-05-23-galster-waste.html
+- /2022/2022-05-23-wessel-github-actions.html
+- /2022/2022-05-24-aniche-testing.html
+- /2022/2022-05-24-fucci-tdd.html
+- /2022/2022-05-24-petre-expertise.html
+- /2022/2022-05-25-brown-mind-learns.html
+- /2022/2022-05-25-rigger-sql-testing.html
+- /2022/2022-05-25-treude-error-messages.html
+- /2022/2022-05-25-zaidman-testing.html
+- /2022/2022-05-26-hicks-learning.html
+- /2022/2022-05-26-nagappan-bias.html
+- /2022/2022-05-26-rodeghero-onboarding.html
+- /2022/2022-05-27-blincoe-destructive-criticism.html
+- /2022/2022-05-27-johnson-matthews-causal-testing.html
+- /2022/2022-05-27-mcintosh-mining.html
+- /2022/2022-05-30-ford-robinson-online-community.html
+- /2022/2022-05-30-steinmacher-estimates.html
+- /2022/2022-05-31-stolee-search.html
+- /2022/2022-05-31-storey-margaret-anne-productivity.html
+- /2022/2022-09-26-our-second-live-event.html
+- /2022/2022-11-01-brown-recommend-tools.html
+- /2022/2022-11-01-hicks-learning.html
+- /2022/2022-11-01-khomh-finding-bugs-in-deep-learning.html
+- /2022/2022-11-01-mkaouer-software-refactoring.html
+- /2022/2022-11-01-nadi-automatically-avoiding-api-misuse.html
+- /2022/2022-11-01-santos-code-smells-in-automatically-generated-code.html
+- /2022/2022-11-01-smith-tools-communicate-debugging-strategies.html
+- /2022/2022-11-01-zhang-testing-debugging-deep-learning.html
+- /2022/2022-04-30-that-went-well.html
+- /2022/2022-12-04-strange-loop-translations.html
+Machine Learning:
+- /2021/2021-10-15-authorship-attribution-of-source-code.html
+- /2022/2022-02-22-where-comment.html
+Maintenance:
+- /2016/2016-04-26-maintaining-java-orm.html
+- /2021/2021-11-16-using-so-comment-edit-pairs.html
+- /2021/2021-11-18-synthesis-approach-for-data-science-api-refactoring.html
+- /2022/2022-02-22-where-comment.html
+- /2022/2022-03-09-rest-api-deprecation.html
+Metrics:
+- /2011/2011-07-07-the-confounding-effect-of-class-size-on-the-validity-of-object-oriented-metrics.html
+- /2011/2011-10-22-three-results-many-definitions.html
+- /2011/2011-11-28-codermetrics.html
+- /2013/2013-02-12-experimental-assessment-of-software-metrics-using-automated-refactoring.html
+- /2013/2013-07-07-how-and-why-process-metrics-are-better.html
+- /2021/2021-08-21-metrics-and-team-leaders-perceptions-of-productivity.html
+- /2021/2021-11-26-metric-based-comparisons-of-software-libraries.html
+Modeling:
+- /2011/2011-08-17-three-empirical-evaluations-of-uml.html
+Noticed:
+- /2011/2011-08-24-what-michael-feathers-thinks-you-should-read.html
+- /2011/2011-10-11-the-irop-paper.html
+- /2011/2011-12-13-research-in-progress-how-mozilla-builds-software.html
+- /2016/2016-08-03-perspectives.html
+- /2022/2022-11-20-serebrenik-lecture.html
+Novices:
+- /2016/2016-06-09-novice-programming-mistakes.html
+- /2016/2016-08-14-novice-smells.html
+- /2021/2021-10-10-mongodb-homework.html
+Open Source:
+- /2021/2021-09-04-do-software-developers-understand-open-source-licenses.html
+- /2021/2021-09-09-organizing-for-openness.html
+- /2021/2021-09-18-code-of-conduct-in-open-source-projects.html
+- /2021/2021-10-13-an-empirical-study-of-donations-in-open-source.html
+- /2021/2021-10-16-open-source-projects-in-baidu-alibaba-and-tencent.html
+- /2022/2022-03-11-single-statement-bugs-in-python-projects.html
+- /2022/2022-04-04-contributor-prediction-for-github.html
+- /2022/2022-04-18-company-contributions-to-open-source.html
+- /2022/2022-04-20-open-source-exception-handling-testing.html
+- /2022/2022-04-21-decline-of-sourceforge.html
+- /2022/2022-04-23-closed-to-open-source.html
+- /2022/2022-04-25-rationale-for-open-source-development-decisions.html
+Operating Systems:
+- /2021/2021-09-23-two-studies-of-software-evolution.html
+Organizational Behavior:
+- /2011/2011-06-27-organizational-volatility-and-its-effects-on-software.html
+- /2011/2011-07-04-requirements-prioritization-in-agile-projects-insights-from-a-case-study.html
+- /2011/2011-08-02-a-teamwork-model-for-understanding-an-agile-team.html
+- /2011/2011-09-06-does-adding-manpower-also-affect-quality.html
+- /2011/2011-10-28-software-requirements-change-taxonomy-evaluation-by-case-study.html
+- /2012/2012-01-05-the-effects-of-stand-up-and-sit-down-meeting-formats-on-meeting-outcomes.html
+- /2012/2012-08-23-using-topic-modelling-to-understand-requirements.html
+- /2022/2022-03-16-resume-driven-development.html
+Package Management:
+- /2021/2021-09-22-taxonomy-of-package-management.html
+Packaging:
+- /2021/2021-09-17-why-do-developers-use-trivial-packages.html
+Pair Programming:
+- /2011/2011-07-11-the-social-dynamics-of-pair-programming.html
+- /2011/2011-07-26-effects-of-personality-on-pair-programming.html
+- /2011/2011-10-11-experiences-of-using-pair-programming-in-an-agile-project.html
+- /2012/2012-02-23-looking-at-the-same-thing-in-pair-programming-tasks.html
+Parallelism:
+- /2011/2011-08-24-is-transactional-programming-actually-easier.html
+- /2012/2012-06-18-combining-functional-and-imperative-programming-for-multicore-software-an-empirical-study-evaluating-scala-and-java.html
+- /2016/2016-06-12-empirical-parellelism.html
+Performance:
+- /2022/2022-03-30-number-parsing-at-a-gigabyte-a-second.html
+- /2022/2022-04-11-database-performance-antipatterns.html
+Privacy:
+- /2021/2021-08-28-privacy-threats-in-intimate-relationships.html
+- /2022/2022-03-07-new-me.html
+Productivity:
+- /2015/2015-08-23-perception-productivity.html
+- /2021/2021-08-09-task-interruption-in-software-development-projects.html
+- /2021/2021-08-21-metrics-and-team-leaders-perceptions-of-productivity.html
+- /2021/2021-09-19-impact-of-task-switching-and-work-interruptions.html
+- /2021/2021-09-26-two-papers-on-time.html
+- /2021/2021-10-21-the-impact-of-sleep-deprivation.html
+Professional Ethics:
+- /2021/2021-10-20-tech-worker-handbook.html
+- /2021/2021-10-24-whats-missing-from-the-missing-readme.html
+- /2022/2022-03-02-ethics-in-decision-making.html
+Program Analysis:
+- /2016/2016-06-09-hidden-truths.html
+- /2016/2016-10-01-apex.html
+- /2022/2022-02-28-software-error-cause-effect.html
+Program Comprehension:
+- /2015/2015-02-13-on-comprehension-of-program-comprehension.html
+- /2021/2021-09-06-commenting-source-code.html
+- /2021/2021-09-20-program-comprehension-of-domain-specific-and-general-purpose-languages.html
+- /2021/2021-09-21-syntax-predicates-idioms-what-really-affects-code-complexity.html
+Program Slicing:
+- /2021/2021-10-31-locating-faults-with-program-slicing.html
+Programmers:
+- /2021/2021-09-07-characterizing-software-engineering-work-with-personas.html
+Programming Languages:
+- /2011/2011-08-24-is-transactional-programming-actually-easier.html
+- /2011/2011-10-24-an-empirical-comparison-of-the-accuracy-rates-of-novices-using-the-quorum-perl-and-randomo-programming-languages.html
+- /2011/2011-10-27-author-response-quorum-vs-perl-vs-randomo-novice-accuracy-rates.html
+- /2012/2012-06-18-combining-functional-and-imperative-programming-for-multicore-software-an-empirical-study-evaluating-scala-and-java.html
+- /2012/2012-10-25-an-experiment-about-static-and-dynamic-type-systems.html
+- /2014/2014-01-29-stefik-siebert-syntax.html
+- /2016/2016-04-26-java-exception-handling.html
+- /2016/2016-06-09-goto-in-c.html
+- /2016/2016-06-12-error-message-frequency.html
+- /2016/2016-06-13-polymorphism-in-python.html
+- /2016/2016-06-15-stefik-interview.html
+- /2021/2021-08-09-abbreviated-vs-full-names.html
+- /2021/2021-08-17-python-language-features.html
+- /2021/2021-08-27-errors-in-sql-queries.html
+- /2021/2021-09-08-to-type-or-not-to-type.html
+- /2021/2021-09-21-syntax-predicates-idioms-what-really-affects-code-complexity.html
+- /2021/2021-09-23-two-studies-of-software-evolution.html
+- /2022/2022-03-18-python-3-types-in-the-wild.html
+- /2022/2022-03-23-designing-types-for-r-empirically.html
+Programming Style:
+- /2021/2021-10-01-python-coding-style-compliance-on-stack-overflow.html
+Programming by Example:
+- /2016/2016-10-02-filtering-spreadsheet-data.html
+Project Management:
+- /2014/2014-04-25-cassandra-proactive-conflict-minimization-through-optimized-task-scheduling.html
+- /2016/2016-04-26-game-postmortems.html
+- /2021/2021-08-09-impact-of-rapid-release-cycles-on-integration-delay-of-fixed-issues.html
+- /2021/2021-09-30-quantifying-and-mitigating-turnover-induced-knowledge-loss.html
+Psychology of Programming:
+- /2011/2011-07-26-effects-of-personality-on-pair-programming.html
+- /2012/2012-04-26-on-the-naturalness-of-software.html
+- /2014/2014-03-31-happy-sw-devs-solve-problems-better.html
+- /2021/2021-10-02-programmers-brain.html
+- /2022/2022-03-02-ethics-in-decision-making.html
+Python:
+- /2021/2021-08-17-python-language-features.html
+- /2022/2022-03-11-single-statement-bugs-in-python-projects.html
+Quality:
+- /2011/2011-06-27-organizational-volatility-and-its-effects-on-software.html
+- /2011/2011-06-27-ownership-experience-and-defects.html
+- /2011/2011-09-06-does-adding-manpower-also-affect-quality.html
+- /2012/2012-01-12-got-issues-do-new-features-and-code-improvements-affect-defects.html
+- /2021/2021-09-16-exception-handling-practices-and-post-release-defects.html
+- /2021/2021-09-28-javascript-quality-assurance-tools-and-usage-outcomes.html
+- /2021/2021-10-01-the-relevance-of-classic-fuzz-testing.html
+- /2022/2022-04-06-adoption-of-javascript-linters.html
+Questions:
+- /2012/2012-08-22-ten-questions-for-empirical-researchers.html
+- /2012/2012-12-12-empirical-evidence-for-the-value-of-version-control.html
+- /2012/2012-12-30-why-we-need-evidence.html
+Readability:
+- /2021/2021-10-05-three-papers-on-readability.html
+Refactoring:
+- /2011/2011-06-27-refactoring-pipe-like-mashups-for-end-user-programmers.html
+- /2012/2012-07-04-programmer-information-needs-after-memory-failure.html
+- /2013/2013-02-12-experimental-assessment-of-software-metrics-using-automated-refactoring.html
+- /2013/2013-09-20-locating-and-applying-systematic-edits.html
+- /2022/2022-03-04-software-refactoring.html
+Regular Expressions:
+- /2021/2021-08-30-two-studies-of-regular-expressions.html
+Remote Work:
+- /2022/2022-03-28-remote-onboarding.html
+Reproducibility:
+- /2012/2012-05-18-willingness-to-share-research-data-is-related-to-the-strength-of-the-evidence-and-the-quality-of-reporting-of-statistical-results.html
+Requirements:
+- /2011/2011-07-04-requirements-prioritization-in-agile-projects-insights-from-a-case-study.html
+- /2011/2011-10-28-software-requirements-change-taxonomy-evaluation-by-case-study.html
+- /2012/2012-08-23-using-topic-modelling-to-understand-requirements.html
+- /2012/2012-11-06-how-do-software-architects-consider-non-functional-requirements.html
+Research Methods:
+- /2011/2011-09-22-variability-and-reproducibility-in-software-engineering-a-study-of-four-companies-that-developed-the-same-system.html
+- /2013/2013-06-13-its-not-a-bug-its-a-feature-how-misclassification-impacts-bug-prediction.html
+- /2016/2016-06-09-perceived-relevance.html
+- /2016/2016-09-08-ethnography-in-ese.html
+- /2021/2021-09-23-the-secret-life-of-bugs.html
+- /2021/2021-10-02-reproducibility-and-credibility-in-empirical-software-engineering.html
+- /2022/2022-04-13-do-you-really-code.html
+Research Topics:
+- /2022/2022-08-30-software-engineering-research-questions.html
+- /2022/2022-10-15-one-more-question.html
+Reuse:
+- /2012/2012-04-10-component-reuse-vs-snippet-remixing.html
+- /2012/2012-05-02-example-embedding.html
+SQL:
+- /2021/2021-08-27-errors-in-sql-queries.html
+Scientific Computing:
+- /2012/2012-01-17-a-survey-of-the-practice-of-computational-science.html
+- /2021/2021-09-25-how-reliable-is-scientific-software.html
+Security:
+- /2016/2016-04-26-finding-security-bugs.html
+- /2021/2021-08-28-privacy-threats-in-intimate-relationships.html
+- /2022/2022-02-21-antifuzz.html
+- /2022/2022-03-13-obfuscated-strings-and-privacy.html
+Security Smell:
+- /2021/2021-11-23-security-smells-in-infrastructure-as-code-scripts.html
+Sleep Deprivation:
+- /2021/2021-10-21-the-impact-of-sleep-deprivation.html
+Social Responsibility:
+- /2021/2021-10-20-tech-worker-handbook.html
+- /2021/2021-10-24-whats-missing-from-the-missing-readme.html
+- /2022/2022-03-02-ethics-in-decision-making.html
+Software Architecture:
+- /2022/2022-03-14-architecture-anti-patterns.html
+Software Evolution:
+- /2021/2021-09-23-two-studies-of-software-evolution.html
+- /2021/2021-09-27-the-evolution-of-javascript-code-in-the-wild.html
+- /2021/2021-11-16-software-history-under-the-lens.html
+- /2022/2022-03-25-breaking-changes.html
+Software Projects:
+- /2011/2011-12-21-factors-that-affect-software-systems-development-project-outcomes.html
+- /2021/2021-08-11-cheating-death-survival-analysis-of-python-projects.html
+- /2021/2021-08-29-software-development-waste.html
+- /2021/2021-09-10-why-software-projects-need-heroes.html
+Software Quality:
+- /2022/2022-04-08-continuous-integration-single-statement-bugs.html
+Software Reliability:
+- /2021/2021-09-25-how-reliable-is-scientific-software.html
+Source Code:
+- /2021/2021-08-23-links-in-source-code-comments.html
+Spreadsheets:
+- /2012/2012-05-24-supporting-professional-spreadsheet-users-by-generating-leveled-dataflow-diagrams.html
+- /2016/2016-10-02-filtering-spreadsheet-data.html
+Stack Overflow:
+- /2021/2021-09-19-reading-answers-on-stack-overflow-not-enough.html
+- /2021/2021-11-16-using-so-comment-edit-pairs.html
+- /2022/2022-03-08-obsolete-answers-on-stack-overflow.html
+- /2022/2022-09-19-developer-git-knowledge.html
+Static Analysis:
+- /2022/2022-04-06-adoption-of-javascript-linters.html
+Survey:
+- /2022/2022-11-14-pluralsight-developer-success-survey.html
+Sustainability:
+- /2021/2021-10-13-an-empirical-study-of-donations-in-open-source.html
+Symbolic Execution:
+- /2016/2016-10-01-apex.html
+Test-Driven Development:
+- /2011/2011-08-31-comparing-the-defect-reduction-benefits-of-code-inspection-and-test-driven-development.html
+- /2012/2012-01-25-realizing-quality-improvement-through-test-driven-development.html
+- /2016/2016-06-08-when-and-why-test.html
+- /2016/2016-10-05-test-driven-development.html
+- /2021/2021-09-12-developer-testing-in-the-ide.html
+- /2021/2021-09-16-analyzing-the-effects-of-tdd-in-github.html
+Testing:
+- /2011/2011-08-31-comparing-the-defect-reduction-benefits-of-code-inspection-and-test-driven-development.html
+- /2012/2012-01-25-realizing-quality-improvement-through-test-driven-development.html
+- /2016/2016-06-08-when-and-why-test.html
+- /2016/2016-10-05-test-driven-development.html
+- /2021/2021-09-01-what-code-is-deliberately-excluded-from-test-coverage-and-why.html
+- /2021/2021-09-12-developer-testing-in-the-ide.html
+- /2021/2021-09-16-analyzing-the-effects-of-tdd-in-github.html
+- /2021/2021-09-24-coverage-is-not-strongly-correlated-with-test-suite-effectiveness.html
+- /2022/2022-04-20-open-source-exception-handling-testing.html
+Tools:
+- /2011/2011-10-22-three-empirical-studies-from-esecfse11.html
+- /2011/2011-12-10-a-decade-of-research-and-development-on-program-animation-the-jeliot-experience.html
+- /2012/2012-05-06-cohesive-and-isolated-development-with-branches.html
+- /2012/2012-05-24-supporting-professional-spreadsheet-users-by-generating-leveled-dataflow-diagrams.html
+- /2012/2012-07-04-programmer-information-needs-after-memory-failure.html
+- /2013/2013-06-06-automatic-patch-generation-learned-from-human-written-patches.html
+- /2013/2013-06-06-does-bug-prediction-support-human-developers-findings-from-a-google-case-study.html
+- /2016/2016-09-30-rethinking-git.html
+- /2016/2016-10-01-apex.html
+- /2021/2021-09-21-build-systems-a-la-carte.html
+- /2021/2021-09-22-taxonomy-of-package-management.html
+- /2021/2021-11-16-software-history-under-the-lens.html
+- /2022/2022-09-19-developer-git-knowledge.html
+Translation:
+- /2022/2022-12-04-strange-loop-translations.html
+Turnover:
+- /2021/2021-09-30-quantifying-and-mitigating-turnover-induced-knowledge-loss.html
+UML:
+- /2013/2013-06-13-uml-in-practice-2.html
+Usability:
+- /2011/2011-06-27-refactoring-pipe-like-mashups-for-end-user-programmers.html
+- /2011/2011-07-26-usability-implications-of-requiring-parameters-in-objects-constructors.html
+- /2012/2012-06-25-usability-analysis-of-visual-programming-environments-a-cognitive-dimensions-framework.html
+- /2012/2012-07-04-programmer-information-needs-after-memory-failure.html
+- /2021/2021-11-16-using-so-comment-edit-pairs.html
+- /2022/2022-03-07-new-me.html
+- /2022/2022-09-19-developer-git-knowledge.html
+Version Control:
+- /2021/2021-08-12-on-the-nature-of-merge-conflicts.html
+- /2021/2021-11-16-software-history-under-the-lens.html
+Visual Programming Environments:
+- /2012/2012-05-24-supporting-professional-spreadsheet-users-by-generating-leveled-dataflow-diagrams.html
+- /2012/2012-06-25-usability-analysis-of-visual-programming-environments-a-cognitive-dimensions-framework.html
+- /2016/2016-10-02-filtering-spreadsheet-data.html
